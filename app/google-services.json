@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928659331136",
+    "firebase_url": "https://mentalhealth-2e530.firebaseio.com",
+    "project_id": "mentalhealth-2e530",
+    "storage_bucket": "mentalhealth-2e530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928659331136:android:3dd319fd0648c555c3e7a5",
+        "android_client_info": {
+          "package_name": "erlab.cs.ucla.edu.gesture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928659331136-qho5udjakn70ar55t1lauqvg76an5144.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeh2CzzbvqBgZHyvss0qc-U-qLmcoea3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928659331136-qho5udjakn70ar55t1lauqvg76an5144.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
